@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #0077cc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    color: #0077cc;
+}
+
+section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 8px 0;
+}
+
+p {
+    line-height: 1.6;
+}
+
+section:hover {
+    transform: scale(1.02);
+    transition: 0.3s;
+}
